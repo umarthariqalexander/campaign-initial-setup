@@ -1,0 +1,3 @@
+export const CREATE_COURSE="CREATE_COURSE";
+export const SET_API_DATA="SET_API_DATA";
+export const LIST_COURSES="LIST_COURSES";
